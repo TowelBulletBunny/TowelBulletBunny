@@ -1,7 +1,7 @@
-Hey there:wave:, I'm TowelBulletBunny,
+Hey there:wave:, I'm TowelBulletBunny,:rabbit2::bullet:
 
 About me
-- I love playing ROBLOX
+- 🎮 I love playing ROBLOX
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on a website
