@@ -4,8 +4,10 @@ About me
 - 🎮 I love playing ROBLOX
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning HTML & CSS
-- :people_holding_hands::two_women_holding_hands::busts_in_silhouette: I’m looking to collaborate on a website and find two sidekicks
+- :busts_in_silhouette: I’m looking to collaborate on a website and find two sidekicks
 - 🏹 I like going to arrow practice.
+- :woman_technologist: I wish to be a programer 
+- :man_astronaut: I also wish to be an astronaut, find new stuff and meet alien friends.
 - 📫 How to reach me?
       My email is vyongxuan1@gmail.com
       
@@ -13,4 +15,4 @@ About me
 My nickname is Slick. 
 Nice to meet you all, hope we can play and code together some time.
 
-Pronouns: she/her
+Pronouns: she/her  :girl:
