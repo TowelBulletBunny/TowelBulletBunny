@@ -1,4 +1,4 @@
-Hey there:wave:, I'm TowelBulletBunny,:gun::rabbit2:
+Hey there :wave:, I'm TowelBulletBunny,:gun::rabbit2:
 
 About me
 - 🎮 I love playing ROBLOX
